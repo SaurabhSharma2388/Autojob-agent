@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "apply-job": {
+      "source": "theaayushstha1/job-applier-agent",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "035be70f37d58b0f12756874e7e537ab6e239aea5aa82b3d3c7a450d13dacb58"
+    }
+  }
+}
